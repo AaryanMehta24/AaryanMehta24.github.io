@@ -1,0 +1,27 @@
+{
+    "name": "Shoes Ordering PWA",
+    "short_name": "Shoes Ordering PWA",
+    "start_url": "/",
+    "scope": ".",
+    "background_color": "#FFFFFF",
+    "theme_color": "#FF6600",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "images/shoes_144x144.png",
+            "sizes": "144x144",
+            "type": "image/jpeg",
+            "purpose": "any"
+            
+        },
+        {
+            "src": "images/shoes_512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+            
+        }
+    ]
+
+
+}
